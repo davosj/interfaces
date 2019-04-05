@@ -1,4 +1,4 @@
-loadedInterfaceName = "template1"; 
+loadedInterfaceName = "template4"; 
 
 interfaceOrientation = "landscape";
 
@@ -28,3 +28,4 @@ pages = [[
 ]
 
 ];
+ 
