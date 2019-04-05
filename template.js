@@ -43,7 +43,7 @@ pages = [[
  {
     "name":"Boton2",
     "type":"Button",
-    "x" : 10, "y" : 0,
+    "x" : .1, "y" : .2,
     "width" : .25, "height" : .15,
     "mode" : "toggle",
     "min":-1, "max":1,
