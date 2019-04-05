@@ -40,6 +40,21 @@ pages = [[
     "ontouchstart" : "buttonLabel.setValue(this.value);",
     "ontouchend"   : "buttonLabel.setValue(this.value);",
 }
+ {
+    "name":"Boton2",
+    "type":"Button",
+    "x" : 10, "y" : 0,
+    "width" : .25, "height" : .15,
+    "mode" : "toggle",
+    "min":-1, "max":1,
+    "midiMin":0, "midiMax":64,
+    "address"  : "/negPos",
+    "midiType" : "noteon",
+    "channel":10,
+    "midiNumber" : 1,
+    "ontouchstart" : "buttonLabel.setValue(this.value);",
+    "ontouchend"   : "buttonLabel.setValue(this.value);",
+}
 
 ]
 
