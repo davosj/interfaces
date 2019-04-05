@@ -51,7 +51,7 @@ pages = [[
     "address"  : "/negPos",
     "midiType" : "noteon",
     "channel":10,
-    "midiNumber" : 1,
+    "midiNumber" : 2,
     "ontouchstart" : "buttonLabel.setValue(this.value);",
     "ontouchend"   : "buttonLabel.setValue(this.value);",
 }
