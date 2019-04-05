@@ -24,6 +24,22 @@ pages = [[
     "ontouchstart": "if(this.value == this.max) { control.showToolbar(); } else { control.hideToolbar(); }",
     "label": "menu",
 },
+    
+    {
+    "name":"Boton1",
+    "type":"Button",
+    "x" : 0, "y" : 0,
+    "width" : .25, "height" : .25,
+    "mode" : "toggle",
+    "min":-1, "max":1,
+    "midiMin":0, "midiMax":64,
+    "address"  : "/negPos",
+    "midiType" : "noteon",
+    "channel":10,
+    "midiNumber" : 1,
+    "ontouchstart" : "buttonLabel.setValue(this.value);",
+    "ontouchend"   : "buttonLabel.setValue(this.value);",
+}
 
 ]
 
