@@ -1,4 +1,4 @@
-loadedInterfaceName = "template0"; 
+loadedInterfaceName = "template7"; 
 
 interfaceOrientation = "landscape";
 
