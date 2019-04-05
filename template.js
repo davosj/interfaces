@@ -1,4 +1,4 @@
-loadedInterfaceName = "template";
+loadedInterfaceName = "template"; adfafd
 
 interfaceOrientation = "landscape";
 
