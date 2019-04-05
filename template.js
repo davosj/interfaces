@@ -1,6 +1,6 @@
-loadedInterfaceName = "template8"; 
+loadedInterfaceName = "template"; 
 
-interfaceOrientation = "landscape";
+interfaceOrientation = "portrait";
 
 pages = [[
 {
@@ -12,7 +12,7 @@ pages = [[
     "mode": "contact",
     "ontouchstart": "interfaceManager.refreshInterface()",
     "stroke": "#aaa",
-    "label": "refrsh",
+    "label": "actualizar",
 },
 {
     "name": "tabButton",
