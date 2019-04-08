@@ -1,6 +1,6 @@
 loadedInterfaceName = "template";
 
-interfaceOrientation = "landscape";
+interfaceOrientation = "portrait";
 
 pages = [[
 {
