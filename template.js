@@ -36,15 +36,7 @@ pages = [[
      "midiNumber" : 1,
     
 }
- {
-     "name" : "Dos",
-     "type" : "Button",
-     "x" : .775, "y" : 0,
-     "width" : .25, "height" : .25,
-     "mode" : "toggle",
-     
-    "midiNumber" : 2,
-}
+
 ]
 
 ];
