@@ -6,23 +6,26 @@ pages = [[
 {
     "name": "Actuaizar",
     "type": "Button",
-    "bounds": [.6, .9, .2, .1],
+    
     "startingValue": 0,
     "isLocal": true,
     "mode": "contact",
     "ontouchstart": "interfaceManager.refreshInterface()",
     "stroke": "#aaa",
+     "x" : 0, "y" : .79,
     "label": "refrsh",
+    "width" : .10, "height" : .10,
 },
 {
     "name": "tabButton",
     "type": "Button",
-    "bounds": [.8, .9, .2, .1],
+   "x" : .89, "y" : .89,
     "mode": "toggle",
     "stroke": "#aaa",
     "isLocal": true,
     "ontouchstart": "if(this.value == this.max) { control.showToolbar(); } else { control.hideToolbar(); }",
     "label": "menu",
+     "width" : .10, "height" : .10,
     
   
 },
