@@ -37,6 +37,16 @@ pages = [[
     
 },
 
+     {
+     "name" : "dos",
+     "type" : "Button",
+     "x" : .665, "y" : 0,
+     "width" : .25, "height" : .25,
+     "mode" : "toggle",
+      
+     "midiNumber" : 2,
+    
+},
 ]
 
 ];
