@@ -40,7 +40,7 @@ pages = [[
      {
      "name" : "dos",
      "type" : "Button",
-     "x" : .88, "y" : 0,
+     "x" : .89, "y" : 0,
      "width" : .10, "height" : .10,
      "mode" : "toggle",
        "label": "2",
