@@ -191,7 +191,7 @@ pages = [[
      "x" : .89, "y" : .55,
      "width" : .10, "height" : .10,
      "mode" : "toggle",
-       "label": "14"
+       "label": "14",
      "midiNumber" : 14,
     
 },
