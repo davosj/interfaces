@@ -12,14 +12,14 @@ pages = [[
     "mode": "contact",
     "ontouchstart": "interfaceManager.refreshInterface()",
     "stroke": "#aaa",
-     "x" : 0, "y" : .89,
+     "x" : 0, "y" : .895,
     "label": "refrsh",
     "width" : .15, "height" : .10,
 },
 {
     "name": "tabButton",
     "type": "Button",
-   "x" : .84, "y" : .89,
+   "x" : .84, "y" : .895,
     "mode": "toggle",
     "stroke": "#aaa",
     "isLocal": true,
@@ -107,6 +107,18 @@ pages = [[
      "midiNumber" : 7,
     
 },
+    
+                    {
+     "name" : "OCHO",
+     "type" : "Button",
+     "x" : 0, "y" : .77,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+      "label": "8",
+     "midiNumber" : 8,
+    
+},
+    
     
     
      {
