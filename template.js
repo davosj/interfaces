@@ -33,15 +33,17 @@ pages = [[
      "width" : .25, "height" : .25,
      "mode" : "toggle",
       "label": "UNO",
+     "midiNumber" : 1,
     
 }
  {
      "name" : "Dos",
      "type" : "Button",
-     "x" : 5, "y" : 0,
+     "x" : 0, "y" : 0,
      "width" : .25, "height" : .25,
      "mode" : "toggle",
       "label": "DOS",
+    "midiNumber" : 2,
 }
 ]
 
