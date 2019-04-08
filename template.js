@@ -27,13 +27,22 @@ pages = [[
   
 },
  {
-     "name" : "myButton",
+     "name" : "uno",
      "type" : "Button",
      "x" : 0, "y" : 0,
      "width" : .25, "height" : .25,
      "mode" : "toggle",
+      "label": "UNO",
+    
 }
-
+ {
+     "name" : "Dos",
+     "type" : "Button",
+     "x" : 5, "y" : 0,
+     "width" : .25, "height" : .25,
+     "mode" : "toggle",
+      "label": "DOS",
+}
 ]
 
 ];
