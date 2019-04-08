@@ -1,18 +1,18 @@
-loadedInterfaceName = "template"; 
+loadedInterfaceName = "template";
 
-interfaceOrientation = "portrait";
+interfaceOrientation = "landscape";
 
 pages = [[
 {
     "name": "Actuaizar",
     "type": "Button",
     "bounds": [.6, .9, .2, .1],
-    "startingValjavascript:;ue": 0,
+    "startingValue": 0,
     "isLocal": true,
     "mode": "contact",
     "ontouchstart": "interfaceManager.refreshInterface()",
     "stroke": "#aaa",
-    "label": "actualizar",
+    "label": "refrsh",
 },
 {
     "name": "tabButton",
@@ -24,37 +24,6 @@ pages = [[
     "ontouchstart": "if(this.value == this.max) { control.showToolbar(); } else { control.hideToolbar(); }",
     "label": "menu",
 },
-    
-    {
-    "name":"Boton1",
-    "type":"Button",
-    "x" : 0, "y" : 0,
-    "width" : .25, "height" : .15,
-    "mode" : "toggle",
-    "min":-1, "max":1,
-    "midiMin":0, "midiMax":64,
-    "address"  : "/negPos",
-    "midiType" : "noteon",
-    "channel":10,
-    "midiNumber" : 1,
-    "ontouchstart" : "buttonLabel.setValue(this.value);",
-    "ontouchend"   : "buttonLabel.setValue(this.value);",
-}
- {
-    "name":"Boton2",
-    "type":"Button",
-    "x" : .1, "y" : .2,
-    "width" : .25, "height" : .15,
-    "mode" : "toggle",
-    "min":-1, "max":1,
-    "midiMin":0, "midiMax":64,
-    "address"  : "/negPos",
-    "midiType" : "noteon",
-    "channel":10,
-    "midiNumber" : 2,
-    "ontouchstart" : "buttonLabel.setValue(this.value);",
-    "ontouchend"   : "buttonLabel.setValue(this.value);",
-}
 
 ]
 
