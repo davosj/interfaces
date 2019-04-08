@@ -19,7 +19,7 @@ pages = [[
 {
     "name": "tabButton",
     "type": "Button",
-   "x" : .86, "y" : .89,
+   "x" : .85, "y" : .89,
     "mode": "toggle",
     "stroke": "#aaa",
     "isLocal": true,
