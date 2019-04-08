@@ -33,13 +33,7 @@ pages = [[
      "width" : .25, "height" : .25,
      "mode" : "toggle",
 }
-    {
-     "name" : "multi",
-     "type" : "MultiTouchXY",
-     "bounds": [0,0,.8,.8],
-     "isMomentary": false,
-     "maxTouches": 20,
-}
+
 ]
 
 ];
