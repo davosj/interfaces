@@ -132,6 +132,96 @@ pages = [[
     
 },
     
+        
+     {
+     "name" : "DIEZ",
+     "type" : "Button",
+     "x" : .89, "y" : .11,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+       "label": "10",
+     "midiNumber" : 10,
+    
+},
+    
+    
+        
+     {
+     "name" : "ONCE",
+     "type" : "Button",
+     "x" : .89, "y" : .22,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+       "label": "11",
+     "midiNumber" : 11,
+    
+},
+    
+    
+        
+     {
+     "name" : "DOCE",
+     "type" : "Button",
+     "x" : .89, "y" : 0.33,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+       "label": "12",
+     "midiNumber" : 12,
+    
+},
+    
+    
+        
+     {
+     "name" : "TRECE",
+     "type" : "Button",
+     "x" : .89, "y" : .44,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+       "label": "13",
+     "midiNumber" : 13,
+    
+},
+    
+    
+        
+     {
+     "name" : "CATORCE",
+     "type" : "Button",
+     "x" : .89, "y" : .55,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+       "label": "14"
+     "midiNumber" : 14,
+    
+},
+    
+    
+        
+     {
+     "name" : "QUINCE",
+     "type" : "Button",
+     "x" : .89, "y" : .66,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+       "label": "15",
+     "midiNumber" : 15,
+    
+},
+    
+    
+        
+     {
+     "name" : "DIECISEIS",
+     "type" : "Button",
+     "x" : .89, "y" : .77,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+       "label": "16",
+     "midiNumber" : 16,
+    
+},
+    
     
     
 
