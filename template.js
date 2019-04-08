@@ -30,9 +30,9 @@ pages = [[
      "name" : "uno",
      "type" : "Button",
      "x" : 0, "y" : 0,
-     "width" : .25, "height" : .25,
+     "width" : .10, "height" : .10,
      "mode" : "toggle",
-      
+      "label": "1",
      "midiNumber" : 1,
     
 },
@@ -40,10 +40,10 @@ pages = [[
      {
      "name" : "dos",
      "type" : "Button",
-     "x" : .665, "y" : 0,
-     "width" : .25, "height" : .25,
+     "x" : .775, "y" : 0,
+     "width" : .10, "height" : .10,
      "mode" : "toggle",
-      
+       "label": "2",
      "midiNumber" : 2,
     
 },
