@@ -30,7 +30,7 @@ pages = [[
   
 },
  {
-     "name" : "uno",
+     "name" : "UNO",
      "type" : "Button",
      "x" : 0, "y" : 0,
      "width" : .10, "height" : .10,
@@ -39,17 +39,37 @@ pages = [[
      "midiNumber" : 1,
     
 },
+    
+    
+     {
+     "name" : "DOS",
+     "type" : "Button",
+     "x" : 0, "y" : .11,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+      "label": "1",
+     "midiNumber" : 2,
+    
+},
 
      {
-     "name" : "dos",
+     "name" : "Nueve",
      "type" : "Button",
      "x" : .89, "y" : 0,
      "width" : .10, "height" : .10,
      "mode" : "toggle",
-       "label": "2",
-     "midiNumber" : 2,
+       "label": "9",
+     "midiNumber" : 9,
     
 },
+    
+    
+    
+
+    
+    
+    
+    
 ]
 
 ];
