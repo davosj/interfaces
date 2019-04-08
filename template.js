@@ -19,7 +19,7 @@ pages = [[
 {
     "name": "tabButton",
     "type": "Button",
-   "x" : .83, "y" : .89,
+   "x" : .84, "y" : .89,
     "mode": "toggle",
     "stroke": "#aaa",
     "isLocal": true,
@@ -73,7 +73,42 @@ pages = [[
      "midiNumber" : 4,
     
 },
+    
+                {
+     "name" : "CINCO",
+     "type" : "Button",
+     "x" : 0, "y" : .44,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+      "label": "5",
+     "midiNumber" : 5,
+    
+},
 
+    
+                {
+     "name" : "SEIS",
+     "type" : "Button",
+     "x" : 0, "y" : .55,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+      "label": "6",
+     "midiNumber" : 6,
+    
+},
+    
+                  {
+     "name" : "SIETE",
+     "type" : "Button",
+     "x" : 0, "y" : .66,
+     "width" : .10, "height" : .10,
+     "mode" : "toggle",
+      "label": "7",
+     "midiNumber" : 7,
+    
+},
+    
+    
      {
      "name" : "Nueve",
      "type" : "Button",
