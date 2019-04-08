@@ -31,7 +31,7 @@ pages = [[
      "type" : "Button",
      "x" : 0, "y" : 0,
      "width" : .25, "height" : .25,
-     "mode" : "momentary",
+     "mode" : "toggle",
 }
     
 ]
