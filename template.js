@@ -18,7 +18,7 @@ pages = [[
      {
      "name" : "SEGUNDA",
      "type" : "Button",
-     "x" : .536, "y" : .67,
+     "x" : .356, "y" : .67,
      "width" : .126, "height" : .10,
      "mode" : "toggle",
       "label": "2A",
@@ -29,7 +29,7 @@ pages = [[
          {
      "name" : "TERCERA",
      "type" : "Button",
-     "x" : .702, "y" : .67,
+     "x" : .522, "y" : .67,
      "width" : .126, "height" : .10,
      "mode" : "toggle",
       "label": "3A",
