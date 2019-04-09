@@ -7,7 +7,7 @@ pages = [[
     {
     "name":"myKnob",
     "type":"Knob",
-    "x":.11, "y":.27,
+    "x":.27, "y":.11,
     "width":.25, "height":.25,
         "midiNumber"   : 19,
         "usesRotation" : false,
