@@ -16,7 +16,7 @@ pages = [[
         {
     "name":"TILT",
     "type":"Knob",
-    "x":.51, "y":.11,
+    "x":.53, "y":.11,
     "width":.25, "height":.25,
         "midiNumber"   : 20,
         "usesRotation" : false,
@@ -42,7 +42,7 @@ pages = [[
     {
     "name": "Referencia",
     "type": "Label",
-    "x": .22, "y": .97,
+    "x": .23, "y": .97,
     "width": .8, "height": .8,
     "value": "          Interfaz diseñada por Jorge Davo Sainz, con recursos de Charles Roberts",
     "backgroundColor": "rgba(0,0,0,0)",
