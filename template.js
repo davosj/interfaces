@@ -9,6 +9,7 @@ pages = [[
     "x":.11, "y":.05,
     "width":.1, "height":.82,
     "isVertical" : true,
+    "midiNumber"   : 17,
 },
     
  {
@@ -17,6 +18,7 @@ pages = [[
     "x":.79, "y":.05,
     "width":.1, "height":.82,
     "isVertical" : true,
+     "midiNumber"   : 18,
 },
     {
     "name": "Referencia",
