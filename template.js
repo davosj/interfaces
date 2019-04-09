@@ -7,7 +7,7 @@ pages = [[
     {
     "name": "Referencia",
     "type": "Label",
-    "x": .16, "y": .99,
+    "x": .16, "y": .97,
     "width": .8, "height": .8,
     "value": "Interfaz diseñada por Jorge Davo Sainz, con recursos de Charles Roberts",
     "backgroundColor": "rgba(0,0,0,0)",
