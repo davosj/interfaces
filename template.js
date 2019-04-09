@@ -23,6 +23,17 @@ pages = [[
 },
     
     {
+     "name" : "Light",
+     "type" : "Button",
+     "x" : .25, "y" : .37,
+     "width" : .53, "height" : .10,
+     "mode" : "toggle",
+      "label": "A",
+     "midiNumber" : 23,
+    
+},
+    
+    {
     "name":"PAN2",
     "type":"Knob",
     "x":.25, "y":.4,
