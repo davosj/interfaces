@@ -4,6 +4,39 @@ interfaceOrientation = "portrait";
 
 pages = [[
     
+           {
+     "name" : "PRIMERA",
+     "type" : "Button",
+     "x" : .23, "y" : .67,
+     "width" : .126, "height" : .10,
+     "mode" : "toggle",
+      "label": "1A",
+     "midiNumber" : 25,
+    
+},
+    
+     {
+     "name" : "SEGUNDA",
+     "type" : "Button",
+     "x" : .336, "y" : .67,
+     "width" : .126, "height" : .10,
+     "mode" : "toggle",
+      "label": "2A",
+     "midiNumber" : 26,
+    
+},
+    
+         {
+     "name" : "TERCERA",
+     "type" : "Button",
+     "x" : .502, "y" : .67,
+     "width" : .126, "height" : .10,
+     "mode" : "toggle",
+      "label": "3A",
+     "midiNumber" : 27,
+    
+},
+    
     {
     "name":"PAN",
     "type":"Knob",
