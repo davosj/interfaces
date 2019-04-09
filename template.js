@@ -3,7 +3,19 @@ loadedInterfaceName = "template";
 interfaceOrientation = "portrait";
 
 pages = [[
-{
+
+    {
+    "name": "Referencia",
+    "type": "Label",
+    "x": .16, "y": .895,
+    "width": .8, "height": .8,
+    "value": "Interfaz diseñada por Jorge Davo Sainz",
+    "backgroundColor": "rgba(0,0,0,1)",
+    "verticalCenter": false,
+    "align": "left",
+},
+    
+    {
     "name": "Actuaizar",
     "type": "Button",
     
