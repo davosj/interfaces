@@ -8,6 +8,7 @@ pages = [[
     "type":"Slider",
     "x":.11, "y":.05,
     "width":.1, "height":.7,
+    "isVertical" : true,
 },
     {
     "name": "Referencia",
