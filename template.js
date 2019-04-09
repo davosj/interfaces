@@ -25,11 +25,22 @@ pages = [[
     {
      "name" : "Light",
      "type" : "Button",
-     "x" : .23, "y" : .27,
-     "width" : .53, "height" : .10,
+     "x" : .23, "y" : .28,
+     "width" : .52, "height" : .10,
      "mode" : "toggle",
       "label": "A",
      "midiNumber" : 23,
+    
+},
+    
+       {
+     "name" : "Light2",
+     "type" : "Button",
+     "x" : .23, "y" : .54,
+     "width" : .52, "height" : .10,
+     "mode" : "toggle",
+      "label": "B",
+     "midiNumber" : 24,
     
 },
     
