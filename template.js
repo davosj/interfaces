@@ -7,7 +7,7 @@ pages = [[
     "name":"MAIN",
     "type":"Slider",
     "x":.11, "y":.05,
-    "width":.1, "height":.7,
+    "width":.1, "height":.81,
     "isVertical" : true,
 },
     {
