@@ -3,6 +3,14 @@ loadedInterfaceName = "template";
 interfaceOrientation = "portrait";
 
 pages = [[
+    
+    {
+    "name":"myKnob",
+    "type":"Knob",
+    "x":.22, "y":.22,
+    "width":.25, "height":.25,
+        "midiNumber"   : 19,
+},
 {
     "name":"MAIN",
     "type":"Slider",
@@ -23,7 +31,7 @@ pages = [[
     {
     "name": "Referencia",
     "type": "Label",
-    "x": .2, "y": .97,
+    "x": .22, "y": .97,
     "width": .8, "height": .8,
     "value": "          Interfaz diseñada por Jorge Davo Sainz, con recursos de Charles Roberts",
     "backgroundColor": "rgba(0,0,0,0)",
