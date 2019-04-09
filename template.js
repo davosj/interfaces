@@ -5,13 +5,23 @@ interfaceOrientation = "portrait";
 pages = [[
     
     {
-    "name":"myKnob",
+    "name":"PAN",
     "type":"Knob",
-    "x":.27, "y":.11,
+    "x":.25, "y":.11,
     "width":.25, "height":.25,
         "midiNumber"   : 19,
         "usesRotation" : false,
 },
+    
+        {
+    "name":"TILT",
+    "type":"Knob",
+    "x":.49, "y":.11,
+    "width":.25, "height":.25,
+        "midiNumber"   : 20,
+        "usesRotation" : false,
+},
+    
 {
     "name":"MAIN",
     "type":"Slider",
