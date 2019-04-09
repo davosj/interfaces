@@ -36,7 +36,7 @@ pages = [[
        {
      "name" : "Light2",
      "type" : "Button",
-     "x" : .23, "y" : .54,
+     "x" : .23, "y" : .56,
      "width" : .52, "height" : .10,
      "mode" : "toggle",
       "label": "B",
