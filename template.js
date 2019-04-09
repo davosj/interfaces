@@ -16,7 +16,7 @@ pages = [[
         {
     "name":"TILT",
     "type":"Knob",
-    "x":.49, "y":.11,
+    "x":.51, "y":.11,
     "width":.25, "height":.25,
         "midiNumber"   : 20,
         "usesRotation" : false,
