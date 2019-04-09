@@ -22,6 +22,24 @@ pages = [[
         "usesRotation" : false,
 },
     
+    {
+    "name":"PAN2",
+    "type":"Knob",
+    "x":.25, "y":.4,
+    "width":.25, "height":.25,
+        "midiNumber"   : 21,
+        "usesRotation" : false,
+},
+    
+        {
+    "name":"TIL2T",
+    "type":"Knob",
+    "x":.53, "y":.4,
+    "width":.25, "height":.25,
+        "midiNumber"   : 22,
+        "usesRotation" : false,
+},
+    
 {
     "name":"MAIN",
     "type":"Slider",
