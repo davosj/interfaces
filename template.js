@@ -15,7 +15,7 @@ pages = [[
  {
     "name":"VOL",
     "type":"Slider",
-    "x":.79, "y":.05,
+    "x":.78, "y":.05,
     "width":.1, "height":.82,
     "isVertical" : true,
      "midiNumber"   : 18,
